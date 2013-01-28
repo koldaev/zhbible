@@ -1,8 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">ZHBIBLE</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
-
+    <string name="menu_settings">设置</string>
+    
+    <string name="language">ZH</string>
+    
+	<string name="savingbook">保存工作簿</string>
+	<string name="biblename">圣经</string>
+	<string name="loadfontsize">加载的字体大小</string>
+	<string name="defaultfontsize">增加字体大小</string>
+	<string name="newtestament">新约全书</string>
+	<string name="oldtestament">旧约全书</string>
+	<string name="chapter">头</string>
+	<string name="psalm">诗篇</string>
+	<string name="chapterchang">选择章节</string>
+	<string name="savebookmark">收藏</string>
+	<string name="loadbookmark">下载“标签</string>
+	<string name="savechapter">保存章</string>
+	<string name="savebook">保存工作簿</string>
+	<string name="savebase">保持基</string>
+	<string name="smallfont">较小的字体</string>
+	<string name="bigfont">大字体</string>
+	<string name="exportprocess">出口到TXT 请稍候</string>
+	<string name="newfontsize">新的字体大小</string>
+	<string name="savingbookmark">收藏保存</string>
+	<string name="savingbase">SQLite数据库中存储的</string>
+	<string name="savingtext">该文本被存储在</string>
+	<string name="enterword">输入搜索词</string>
+	
+	<string name="findprocess">搜索 请等待</string>
+	<string name="findofword">Word搜索</string>
+	<string name="findresults">搜索结果</string>
+	<string name="matches">火柴</string>
+	<string name="poem">诗</string>
+	<string name="loadprocess">装载 请稍候</string>
+	
+	<string name="searchbutton">发现</string>
+	<string name="backbutton">背面</string>
+	<string name="forwardbutton">前进！</string>
+	
+	<string name="tosavexml">保存到BibleXML</string>
+	<string name="savingxml">新的XML格式</string>
 </resources>
